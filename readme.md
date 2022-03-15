@@ -1,5 +1,5 @@
 <h1 align="center"> Company Profile Website Dynamic Plasapedia</h1>
-
+ <img src='https://github.com/bangprabs/companyProfile_plasapedia/blob/master/img_starter_plasapedia/Banner%20Plasapedia.png' />
 ## Intro
 
 [![Codeigniter](https://img.shields.io/badge/Codeigniter-3.0-red.svg)](https://www.codeigniter.com/)
